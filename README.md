@@ -1,4 +1,4 @@
-# Tutorials for PHY 580
+# Tutorials for PHY_52180_EP
 
 ## Requirements
 
